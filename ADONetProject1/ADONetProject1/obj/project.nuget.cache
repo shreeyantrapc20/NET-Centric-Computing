@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2zh9cNXkPY=",
+  "dgSpecHash": "N7JYD1cUBeY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cp\\source\\repos\\ADONetProject1\\ADONetProject1\\ADONetProject1.csproj",
+  "projectFilePath": "D:\\Binayak\\NET-Centric-Computing\\ADONetProject1\\ADONetProject1\\ADONetProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\cp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

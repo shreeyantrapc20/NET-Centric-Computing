@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cp\\source\\repos\\ADONetProject1\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "D:\\Binayak\\NET-Centric-Computing\\ADONetProject1\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cp\\source\\repos\\ADONetProject1\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\Binayak\\NET-Centric-Computing\\ADONetProject1\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cp\\source\\repos\\ADONetProject1\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Binayak\\NET-Centric-Computing\\ADONetProject1\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\cp\\source\\repos\\ADONetProject1\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\Binayak\\NET-Centric-Computing\\ADONetProject1\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\cp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cp\\source\\repos\\ADONetProject1\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Binayak\\NET-Centric-Computing\\ADONetProject1\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
